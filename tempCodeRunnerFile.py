@@ -1,0 +1,1 @@
+print("Available Zip Codes:", geo_id_to_measurements.keys())
